@@ -7,4 +7,4 @@ dask-sql Example Notebooks
 This repository contains example notebooks to showcase the usage of
 the `dask-sql` package.
 
-Main repository: [here](https://github.com/nils-braun/dask-sql).
+Main repository: [here](https://github.com/nils-braun/dask-sql). 
